@@ -1,4 +1,3 @@
-# Capstone Starter Project
 
 ## Database
 
