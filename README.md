@@ -1,5 +1,6 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Fullstack application that utilizes Java and Vue. As part of a collaborative team,
+we embraced the Agile project management methodology to ensure efficient and iterative development.
+The application's backend was crafted using the Spring framework, employing the JDBC API for seamless
+and secure database interactions. Leveraging the Vue framework on the front end, we embraced various
+essential concepts, including components, routers, HTML, and CSS, to create an immersive and visually
+appealing user interface.
